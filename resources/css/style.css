@@ -7,16 +7,26 @@ body {
   text-align: center;
 }
 
+.logo {
+  height: 50px;
+}
+
 .tom {
   height: 200px;
   width: 300px;
 }
 
-.logo {
-  height: 50px;
-}
-
 .main-image {
   height: 700px;
   width: 1200px;
+}
+
+.location {
+  height: 300px;
+  width: 300px;
+}
+
+.location-bg {
+  background: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+  height: 500px;
 }
