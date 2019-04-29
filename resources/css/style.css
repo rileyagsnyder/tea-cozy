@@ -7,16 +7,16 @@ body {
   text-align: center;
 }
 
-img {
+.tom {
   height: 200px;
   width: 300px;
 }
 
-.mission {
-  height: 700px;
-  width: 1200px;
-}
-
 .logo {
   height: 50px;
+}
+
+.main-image {
+  height: 700px;
+  width: 1200px;
 }
