@@ -11,6 +11,10 @@ body {
   height: 50px;
 }
 
+.tea-month {
+  width: 1000px;
+}
+
 .tea {
   height: 200px;
   width: 300px;
