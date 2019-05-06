@@ -5,6 +5,7 @@ body {
   background-color: black;
   opacity: 0.9;
   text-align: center;
+  padding-top: 69px;
 }
 
 .logo {
@@ -21,7 +22,41 @@ header {
   padding: 0 10px;
   align-items: center;
   justify-content: space-between;
+  top: 0;
+  left: 0;
 }
+
+header nav span {
+  margin-left: 20px;
+}
+
+a {
+  color: inherit;
+}
+
+.hero {
+  background-image: url("../images/mission-background.jpg");
+  height: 700px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.hero h2, .hero h4 {
+  margin: 0;
+
+}
+
+.hero .title {
+  padding: 10px;
+  background-color: black;
+}
+
+.hero h2 {
+  margin-bottom: 20px;
+}
+
 
 .tea {
   height: 200px;
