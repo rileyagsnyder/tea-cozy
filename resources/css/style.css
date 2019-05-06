@@ -11,6 +11,11 @@ body {
   height: 50px;
 }
 
+header {
+  height: 69px;
+  position: fixed;
+}
+
 .tea {
   height: 200px;
   width: 300px;
@@ -29,4 +34,9 @@ body {
 .location-bg {
   background: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
   height: 500px;
+  width: 100%;
+}
+
+.copyright {
+  text-align: left;
 }
